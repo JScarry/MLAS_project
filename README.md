@@ -14,7 +14,7 @@ person to clone and run any code or notebooks in it.
 – A .gitignore file to ignore any temporary files and folders
 that should not normally be committed to a repository.
 
-- 5 task notebooks:
+- Notebook containing 5 tasks:
     - Task 1. Square roots
     - Task 2. Chi-square test
     - Task 3. t-test
