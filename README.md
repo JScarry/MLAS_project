@@ -27,6 +27,7 @@ It contains:
  - Supporting materials
     - data folder
     - images folder
+    - tasks folder (with individual task notebooks)
 
 
 ### How to use this repository
@@ -72,6 +73,7 @@ https://colab.research.google.com/?utm_source=scs-index
 ![open a notebook](https://github.com/JScarry/MLAS_project/tree/main/images/colab_steps2.png)
 
 The notebook should load and run.
+
 6. Scroll down and read the documentation
 7. Press play to run the code cells
 
@@ -105,10 +107,20 @@ A notebook exploring classification algorithms applied on the iris flower data s
 
 ### References
 
+Specific references in notebooks
+
+General references.
+
 Jupyter Notebook - python code editor notebook
-Python - the programming language
-Python libraries - Various python libraires including: math, random, 
-Scikit-learn - machine learning library
-Pandas - data analysis library
-Matplotlib - plotting library
+
+Python - the programming 
+
+Python libraries - Various python libraires including: math, random,
+
+Scikit-learn - machine learning 
+
+Pandas - data analysis 
+
+Matplotlib - plotting 
+
 Google colab - Google cloud-based platform with a free Jupyter notebook environment to run and execute code.
