@@ -59,7 +59,7 @@ https://colab.research.google.com/?utm_source=scs-index
 1. +code. Make a new code cell.
 2. Paste in this command and run: !git clone https://github.com/JScarry/MLAS_project
 
-![clone my project](https://github.com/JScarry/MLAS_project/tree/images/colab_steps1.png)
+![clone my project](https://github.com/JScarry/MLAS_project/tree/main/images/colab_steps1.png)
 
 ##### Open the notebooks
 
@@ -69,13 +69,13 @@ https://colab.research.google.com/?utm_source=scs-index
 4. Paste my github link and search:     https://github.com/JScarry
 5. Select the notebook:                 JScarry/MLAS_project
 
-![open a notebook](https://github.com/JScarry/MLAS_project/tree/images/colab_steps2.png)
+![open a notebook](https://github.com/JScarry/MLAS_project/tree/main/images/colab_steps2.png)
 
 The notebook should load and run.
 6. Scroll down and read the documentation
 7. Press play to run the code cells
 
-![run some code](https://github.com/JScarry/MLAS_project/tree/images/colab_steps3.png)
+![run some code](https://github.com/JScarry/MLAS_project/tree/main/images/colab_steps3.png)
 
 
 ### Tasks
