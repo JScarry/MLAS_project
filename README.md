@@ -78,6 +78,8 @@ Perform Principal Component Analysis on the iris data set reducing the number of
 
 A notebook exploring classification algorithms applied on the iris flower data set associated with Ronald. A breif explanation of what supervised learning is and then explain what classification algorithms are. A description of the KNN classification algorithm and implementation of it using the scikit-learn Python library.
 
+In summary, we first loaded the Iris dataset. We looked at the data and carried out some preprocessing. Next split it into training 70% and testing 30% sets to test several  classification models from scikit-learn. We create a function `train_score_measure()` to train the models, record their accuracy and measure time and memory usage during the training. We evaluated the accuracy of the KNeighborsClassifier with an estimated k value based on the dataset size and then tested different values of k. 
+
 
 ### References
 
