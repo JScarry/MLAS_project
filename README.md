@@ -44,40 +44,14 @@ A Jupyter Notebook is an web-based notebook that allows readers to view document
 
 #### How do I view the notebooks?
 
-Notebooks are in jupyter notebook format. They appear as .ipynb file types. The most convinent way to view this file type is on the Jupyter notebooks viewer website [nbviewer](https://nbviewer.org/). 
+Notebooks are in jupyter notebook format. They appear as .ipynb file types. The most convinent way to view these files is to open them directly in the Github repository.
 
-<a href="https://nbviewer.org" target="_blank">nbviewer</a>
+Just double click on the `project.ipynb` or `tasks.ipynb` files.
+
+
+Notebooks can also be viewed on the Jupyter notebooks viewer website [nbviewer](https://nbviewer.org/). 
 
 Right click on the notebook and "copy link address". Paste the address into the box and go! You can view the notebook, however you will not be able to run the code :(
-
-#### How do I run the code in the notebooks?
-
-If you have a google account you can use google colab. Sign in and follow these instructions.  
-https://colab.research.google.com/?utm_source=scs-index
-
-##### Clone project to your colab.
-
-1. +code. Make a new code cell.
-2. Paste in this command and run: !git clone https://github.com/JScarry/MLAS_project
-
-![clone my project](https://github.com/JScarry/MLAS_project/tree/main/images/colab_steps1.png)
-
-##### Open the notebooks
-
-1. File
-2. Open notebook
-3. Github
-4. Paste my github link and search:     https://github.com/JScarry
-5. Select the notebook:                 JScarry/MLAS_project
-
-![open a notebook](https://github.com/JScarry/MLAS_project/tree/main/images/colab_steps2.png)
-
-The notebook should load and run.
-
-6. Scroll down and read the documentation
-7. Press play to run the code cells
-
-![run some code](https://github.com/JScarry/MLAS_project/tree/main/images/colab_steps3.png)
 
 
 ### Tasks
